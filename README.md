@@ -5,4 +5,4 @@ A simple timer with start, pause, and reset buttons, built using PyQt5.
 Tools used: Python, PyQt5
 Made to familiarize myself with PyQt5.
 
-![Timer UI](TimerApp/timer_ui.png)
+![Timer UI](TimerApp/main/timer_ui.png)
